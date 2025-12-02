@@ -15,7 +15,7 @@ Parameters:
 - `<algo>`: tqn or ppo or trpo
 
 # example
-bash train.sh train tqn
+bash train.sh train dqn
 ```
 validate:
 ```bash
