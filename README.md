@@ -12,7 +12,7 @@ pip install -r requirements.txt
 bash train.sh <mode> <algo>
 Parameters:
 - `<mode>`: train or val
-- `<algo>`: tqn or ppo or trpo
+- `<algo>`: dqn or ppo or trpo
 
 # example
 bash train.sh train dqn
