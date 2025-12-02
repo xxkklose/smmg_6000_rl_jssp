@@ -19,5 +19,5 @@ bash train.sh train dqn
 ```
 validate:
 ```bash
-bash train.sh val tqn
+bash train.sh val dqn
 ```
