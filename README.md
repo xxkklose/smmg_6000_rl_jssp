@@ -1,6 +1,6 @@
 # Install
 ```bash
-us sync
+uv sync
 ```
 or
 ```bash
